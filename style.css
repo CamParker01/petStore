@@ -1,0 +1,183 @@
+
+
+ body {
+    background-image: url("./img/wallpaper.jpg");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+/* 
+   #shop{
+
+  /* padding: 50px; */
+    /* margin: 200px; */
+ 
+
+
+.noLine{
+    text-decoration-line: none !important;
+}
+
+
+nav{
+    flex-direction: row;
+    /* margin: 375px; */
+    
+}
+
+
+/* #E-Shop{
+
+
+} */
+
+
+.diamond {
+    height: 75px;
+    width: 75px;
+    /* transform: rotate(45deg); */
+    float: left;
+    margin-left: 18%;
+    color: white;
+    text-align: center;
+    
+  }
+  .content{
+  justify-content: center;
+  }
+
+ .content a{
+    color: black;
+    
+  }
+  .Nipsey a{
+    color: rgb(7, 246, 7);
+    font-weight: bolder;
+  }
+
+  p{
+  margin: 35% 10%;
+      transform: scale(.9);
+          }
+
+#up{
+ padding: 20px;
+ 
+
+} 
+
+
+
+.home{
+    text-align: center;font-size: 30px;
+border-style: solid;
+border-color: salmon;
+border-width: 10px;
+border-radius: 99%;
+text-decoration-line: none;
+display: inline-block;
+}
+
+
+
+div.home{
+border-style: none;
+
+}
+
+
+#contact{
+
+text-align: center;
+margin: 900px;
+
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(15, 157, 20);
+  color: white;
+  text-align: center;
+}
+
+
+header{
+    height: 4.5%;
+    background-color: hsl(143, 98%, 33%);
+    padding: 0px 0px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    line-height: 20px;
+    
+  }
+  header h1 a{
+    color: brown;
+    border: 8px solid rgb(248, 170, 53);
+    display: inline-flex;
+    padding: 6px 12px;
+    border-radius: 36px;
+     margin: 0;
+    color: rgb(43, 230, 68);
+    font-size: 28px;
+    bottom: 500px;
+    
+  }
+
+  h2{
+    font-size: 100px;
+    color: #315002;
+    font-style: italic;
+  }
+ 
+  
+
+
+
+/* E-shop Styles */
+
+    
+#rainbow{
+  background-image: url("./img/rainbow1.png");
+background-size: contain;
+background-repeat: no-repeat;
+}
+
+
+#brown{
+  background-image: url(./img/Untitled-3.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  transform:scale();
+}
+
+.Nipsey{
+  /* height: 300px; */
+  display: flex;
+  width: 500px;
+  margin: 350px 230px 0 0;
+  justify-content: flex-end;
+  padding-top: 150px;
+  transform: scale(2.7);
+}
+#yellow{
+  background-image: url("./img/Untitled-1.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+      }
+
+    .footer{
+      word-spacing: 600px;
+    }
+
+    .huge{
+      font-size: 40px;
+      font-weight: 400;
+      display: flex;
+    }
