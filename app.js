@@ -2,37 +2,37 @@
 var eshop1 = [
     {
       title: 'Lizards',
-      image: "./img/monitor.jpg",
+      image: "../img/monitor.jpg",
       price: '$7,500-15,000',
       description: 'Monitor'
     },
     {
       title: 'Lizards',
-      image: "./img/cynthia-beilmann-YBJqVEYlLqw-unsplash.jpg",
+      image: "../img/cynthia-beilmann-YBJqVEYlLqw-unsplash.jpg",
       price: '$7,500-15,000',
       description: 'Bearded'
     },
     {
       title: 'Lizards',
-      image: "./img/Lizard5.jpg",
+      image: "../img/Lizard5.jpg",
       price: '$7,500-15,000',
       description: 'Gecko'
     },
     {
       title: 'Lizards',
-      image: "./img/d-hilpert-CIr9uq2O168-unsplash.jpg",
+      image: "../img/d-hilpert-CIr9uq2O168-unsplash.jpg",
       price: '$7,500-15,000',
       description: 'Chameleon'
     },
     {
       title: 'Lizards',
-      image: "./img/sultan-alsultan-2RDOig8tu94-unsplash.jpg",
+      image: "../img/sultan-alsultan-2RDOig8tu94-unsplash.jpg",
       price: '$7,500-15,000',
       description: 'Iguana'
     },
     {
       title: 'Lizards',
-      image: "./img/mano-HhHIa8MkPS4-unsplash.jpg",
+      image: "../img/mano-HhHIa8MkPS4-unsplash.jpg",
       price: '$7,500-15,000',
       description: 'monitor'
     }
@@ -68,37 +68,37 @@ var eshop1 = [
 var eshop2 = [
   {
     title: 'Snake',
-    image: "./img/snake1.jpg",
+    image: "../img/snake1.jpg",
     price: '$7,500-15,000',
     description: 'Python'
   },
   {
     title: 'Snake',
-    image: "./img/snake2.jpg",
+    image: "../img/snake2.jpg",
     price: '$7,500-15,000',
     description: 'Boaconstrictor'
   },
   {
     title: 'Snake',
-    image: "./img/snake3.jpg",
+    image: "../img/snake3.jpg",
     price: '$7,500-15,000',
     description: 'Yellow Viper'
   },
   {
     title: 'Snake',
-    image: "./img/snake 4.jpg",
+    image: "../img/snake 4.jpg",
     price: '$7,500-15,000',
     description: 'Albino Cobra'
   },
   {
     title: 'Sanke',
-    image: "./img/snake 5.jpg",
+    image: "../img/snake 5.jpg",
     price: '$7,500-15,000',
     description: 'Cobra'
   },
   {
     title: 'Snake',
-    image: "./img/snake 6.jpg",
+    image: "../img/snake 6.jpg",
     price: '$7,500-15,000',
     description: 'Rattler'
   }
@@ -131,37 +131,37 @@ var eshop2 = [
 var eshop3 = [
   {
     title: 'Alligator',
-    image: "./img/baby croc.jpg",
+    image: "../img/baby croc.jpg",
     price: '$100,000-250,000',
     description: 'monitor'
   },
   {
     title: 'Crocodile',
-    image: "./img/croc1.jpg",
+    image: "../img/croc1.jpg",
     price: '$50,500-75,000',
     description: 'Nile'
   },
   {
     title: 'Crocodile',
-    image: "./img/croc2.jpg",
+    image: "../img/croc2.jpg",
     price: '$50,000-75,000',
     description: 'Salt'
   },
   {
     title: 'Alligator',
-    image: "./img/gator1.jpg",
+    image: "../img/gator1.jpg",
     price: '$35,000-50,000',
     description: 'American'
   },
   {
     title: 'Alligator',
-    image: "./img/gator2.jpg",
+    image: "../img/gator2.jpg",
     price: '$7,500-15,000',
     description: 'German'
   },
   {
     title: 'Gharial',
-    image: "./img/gator3.jpg",
+    image: "../img/gator3.jpg",
     price: '$80,000-250,000',
     description: 'Rare'
   }
